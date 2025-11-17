@@ -81,11 +81,3 @@
 </picture>
 
 ---
-
-### 🔥 Red Alert Security Snake (Cyber Mode)
-<picture>
-  <img alt="Red Snake Animation"
-       src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-red.svg" />
-</picture>
-
----

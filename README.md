@@ -80,7 +80,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&locale=en" alt="sumansingh20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansingh20&" alt="sumansingh20" /></p>
 
 ## 📊 GitHub Analytics
 

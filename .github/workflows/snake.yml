@@ -1,33 +1,38 @@
 name: Generate Snake Contribution Graph
 
+# Run every 12 hours + allow manual runs
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight
-  workflow_dispatch:      # allows manual run
-  push:
-    branches:
-      - main
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      # Generate snake (light + dark)
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: sumansingh20
+          github_user_name: "sumansingh20"
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            output/snake.svg
+            output/snake-dark.svg
 
-      - name: Push Snake Graph To Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+      # Push to output branch
+      - name: Push Snake to output branch
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+
+          git add output/snake.svg || true
+          git add output/snake-dark.svg || true
+
+          git commit -m "Update snake animation" || echo "No changes to commit"
+
+          git push https://sumansingh20:${{ secrets.PAT_TOKEN }}@github.com/sumansingh20/sumansingh20.git HEAD:output

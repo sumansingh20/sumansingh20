@@ -67,12 +67,6 @@
 </div>
 
 ---
-## 🎮 Fun Contribution Graph (Pacman)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/pacman-contribution-graph.svg" 
-       alt="Pacman Contribution Graph" />
-</div>
 
 ---
 

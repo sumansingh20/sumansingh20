@@ -67,26 +67,22 @@
 </div>
 
 ---
-
-## 🎮 Fun Contribution Graph (Pacman)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
 ## 🎮 Fun Contribution Graph (Pacman)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/pacman-contribution-graph.svg" 
+       alt="Pacman Contribution Graph" />
 </div>
+
 ---
+
 ## 🐍 Snake Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
-  <img alt="Snake animation" src="dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/snake-dark.svg" />
+  <img alt="Snake animation" 
+       src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/snake.svg" />
 </picture>
+
 ---

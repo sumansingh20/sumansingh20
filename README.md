@@ -83,3 +83,10 @@
   <img src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </div>
 ---
+## 🐍 Snake Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <img alt="Snake animation" src="dist/snake.svg" />
+</picture>
+---

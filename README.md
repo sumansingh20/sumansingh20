@@ -72,13 +72,20 @@
 
 ---
 
-## 🐍 Snake Contribution Graph
-
+### 🌀🐍 Advanced Snake Contribution Graphs
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/snake-dark.svg" />
-  <img alt="Snake animation" 
-       src="https://raw.githubusercontent.com/sumansingh20/sumansingh20/output/snake.svg" />
+          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="3D Gradient Snake"
+       src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 🔥 Red Alert Security Snake (Cyber Mode)
+<picture>
+  <img alt="Red Snake Animation"
+       src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-red.svg" />
 </picture>
 
 ---

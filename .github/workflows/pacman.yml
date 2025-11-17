@@ -1,1 +1,33 @@
+name: Generate Pacman Contribution Graph
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: MauroDesouza/github-activity-readme@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Updated Pacman Contribution Graph"
+          OUTPUT_PATH: "output/pacman-contribution-graph.svg"
+          GRAPH_TYPE: "pacman"
+
+      - name: Push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update Pacman Contribution Graph" || echo "No changes to commit"
+          git push

@@ -3,32 +3,6 @@
 
 ---
 
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-</div>
-
----
-
 <br/>
 
 <div align="center">

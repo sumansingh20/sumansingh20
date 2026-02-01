@@ -1,107 +1,162 @@
-<h1 align="center">Hi 👋, I'm Suman Kumar</h1>
-<h3 align="center">
-Security Engineer • Backend Developer • Ethical Hacker
-</h3>
+# Hi, I'm Suman Kumar 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumansingh20&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+📍 **India**  
+🔐 **Security Engineer** | 🛡️ ** Cloud security** | ⚙️ **Backend & Systems Builder**
 
-<p align="center">
-  <em>I break systems deliberately — so they fail safely in the real world.</em>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-8B0000?style=flat-square)
+![AI Security](https://img.shields.io/badge/-AI%20Security-5C2D91?style=flat-square)
 
----
-
-## 👨‍💻 About Me
-
-I am a **security-first engineer** with a strong backend foundation, focused on building **resilient, attack-aware systems**.
-
-- 🔐 Security Engineer with hands-on **penetration testing & threat analysis**
-- 🔭 Working on **secure modern web applications & real-world exploits**
-- 🌱 Actively learning **Advanced Pentesting, Malware Analysis, DevSecOps, ML Security**
-- 👯 Collaborating on **BharatMail** (privacy-centric systems)
-- 🤝 Seeking contributors for **CyberShield Defend**
-- 📝 Writing about **Cybersecurity, Pentesting, Malware & AI Security**
-- 💬 Ask me about **Ethical Hacking, Malware, Full-Stack Security**
-- 📫 Email → **sumantech07@gmail.com**
-- 🔗 LinkedIn → **https://www.linkedin.com/in/sumankumar-/**
+> **I break systems deliberately —  
+> so they fail safely in the real world.**
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Who I Am
 
-### 🔐 Penetration Testers & Secure Modern Web Apps
-Practical exploitation, vulnerability analysis, and secure-by-design engineering  
-🔗 https://github.com/sumansingh20/Penetration-testers-and-secure-modern-web-apps
+I’m a **security-first engineer** with a strong backend and systems foundation.  
+I don’t believe in checkbox security. I believe in **attack-aware engineering**.
 
-### 📬 BharatMail – Secure Email Platform
-Privacy-focused email system with security-first architecture  
-🔗 https://github.com/sumansingh20/BharatMail
+My approach is simple but strict:
+
+> **If a system can be abused, it will be.  
+So design it assuming an intelligent adversary.**
+
+I actively work across:
+- **Offensive security** (how systems break)
+- **Defensive engineering** (how systems survive)
+- **Backend & infrastructure** (where attacks actually land)
+
+---
+
+## 🧭 Engineering Mindset
+
+- 🔐 Security is **not a layer**, it’s a baseline
+- 🧠 Threat models matter more than tools
+- 🧪 Proof-of-concept is useless without mitigation
+- 🏗️ Systems should **fail safely**, not silently
+- 🤖 AI without security is technical debt at scale
+
+---
+
+## 🚀 Current & Ongoing Projects
 
 ### 🛡️ CyberShield Defend
-Defensive security tooling & automation for modern threats  
+**Defensive security tooling & automation** for modern threats  
+Focus areas:
+- Threat detection logic
+- Secure automation
+- Practical defense workflows  
+
 🔗 https://github.com/sumansingh20/CyberShield
+
+---
+
+### 📬 BharatMail — Secure Email Platform
+A **privacy-first, security-centric email system**  
+Designed with:
+- Zero-trust mindset
+- Attack surface minimization
+- Secure auth & storage principles  
+
+🔗 https://github.com/sumansingh20/BharatMail
+
+---
+
+### 🔐 Penetration Testers & Secure Modern Web Apps
+Hands-on repository covering:
+- Real-world vulnerabilities
+- Exploitation techniques
+- Secure-by-design fixes  
+
+🔗 https://github.com/sumansingh20/Penetration-testers-and-secure-modern-web-apps
 
 ---
 
 ## 🧰 Technical Expertise
 
 ### 🔐 Security & DevSecOps
-`Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `OWASP`  
-`Linux` · `Docker` · `Kubernetes` · `CI/CD` · `Cloud Security`
+- Web, Network & System Penetration Testing  
+- Threat Modeling & Risk Analysis  
+- OWASP Top 10 (Web, API)  
+- Linux Hardening & Secure Configurations  
+- Docker & Kubernetes Security  
+- CI/CD Security Pipelines  
+- Cloud Security Fundamentals  
+
+Tools:
+`Nmap` · `Burp Suite` · `Metasploit` · `Wireshark` · `Linux`
+
+---
 
 ### 🖥️ Backend & Systems
-`Python` · `Java` · `Node.js` · `Go` · `C / C++` · `Bash`  
-`REST APIs` · `Microservices` · `System Design`
+- Secure REST API design  
+- Authentication & Authorization models  
+- Role-based & policy-based access control  
+- Secure data handling & validation  
+- Microservices security concerns  
+- High-risk input & boundary defense  
+
+Languages:
+`Python` · `Java` · `Node.js` · `Go` · `C / C++` · `Bash`
+
+---
 
 ### ☁️ Cloud & Databases
-`AWS` · `Azure` · `GCP`  
+- Cloud threat models (AWS / Azure / GCP)
+- IAM & permission boundaries  
+- Secure storage & secrets handling  
+
+Databases:
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-### 🤖 AI / Data
+---
+
+### 🤖 AI & Security
+- ML-assisted malware detection concepts  
+- Adversarial attack surfaces in AI systems  
+- Securing AI pipelines & data flows  
+- Understanding how AI changes threat models  
+
+Libraries:
 `TensorFlow` · `PyTorch` · `Scikit-learn` · `Pandas` · `NumPy`
 
 ---
 
-## 🔗 Connect With Me
+## 🔍 What I’m Actively Working On
 
-<p align="left">
-  <a href="https://linkedin.com/in/sumankumar-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/sumansingh20" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" />
-  </a>
-  <a href="https://kaggle.com/sumansingh01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" />
-  </a>
-  <a href="https://www.leetcode.com/sumansingh20" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
-  </a>
+- Advanced penetration testing methodologies  
+- Malware behavior & analysis fundamentals  
+- Secure system design under adversarial conditions  
+- AI + Cybersecurity intersections  
+- Turning exploits into **engineering rules**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh20&layout=compact&theme=dracula&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Contribution Graph
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&theme=dracula&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh20&layout=compact&theme=dracula&hide_border=true"
-    height="160"
-  />
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/sumansingh20" alt="Suman Kumar GitHub Contribution Graph" />
+</p>
 
 ---
 
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -114,8 +169,31 @@ Defensive security tooling & automation for modern threats
 
 ---
 
-### 🧠 Final Thought
+## 🌐 Writing & Knowledge Sharing
+
+- Cybersecurity fundamentals
+- Exploit breakdowns
+- Secure architecture concepts
+- AI security risks & design lessons
+
+(Actively expanding technical writing)
+
+---
+
+## 🔗 Connect With Me
+
+- 📫 Email → **sumantech07@gmail.com**
+- 💼 LinkedIn → https://www.linkedin.com/in/sumankumar-/
+- 🧠 GitHub → https://github.com/sumansingh20
+- 🧩 LeetCode → https://www.leetcode.com/sumansingh20
+
+---
+
+## 🧠 Philosophy
 
 > **Attackers think in possibilities.  
 > Defenders think in guarantees.  
 > I train myself to think like both.**
+
+> **Secure systems aren’t built by fear —  
+they’re built by understanding failure.**

@@ -1,7 +1,7 @@
 # Hi, I'm Suman Kumar 👋
 
 📍 **India**  
-🔐 **Security Engineer** | 🛡️ ** Cloud security** | ⚙️ **Backend & Systems Builder**
+🔐 **Security Engineer** | 🛡️ **Cloud security** | ⚙️ **Backend & Systems Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)

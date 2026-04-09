@@ -144,9 +144,6 @@ Libraries:
   <img src="https://streak-stats.demolab.com?user=sumansingh20&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/sumansingh20" />
-</p>
 ---
 
 ## 📈 GitHub Contribution Graph

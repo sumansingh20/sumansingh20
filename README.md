@@ -142,10 +142,9 @@ Libraries:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&theme=dracula&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh20&layout=compact&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true" height="150" />
 </p>
-
 ---
 
 ## 📈 GitHub Contribution Graph

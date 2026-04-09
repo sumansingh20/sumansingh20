@@ -1,6 +1,6 @@
 # Hi, I'm Suman Kumar 👋
 
-📍 **India**  
+📍 **Patna, Bihar**  
 🔐 **Security Engineer** | 🛡️ **Cloud security** | ⚙️ **Backend & Systems Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -13,7 +13,7 @@
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-8B0000?style=flat-square)
 ![AI Security](https://img.shields.io/badge/-AI%20Security-5C2D91?style=flat-square)
 
-> **I break systems deliberately —  
+> **I break systems deliberately   
 > so they fail safely in the real world.**
 
 ---
@@ -195,5 +195,5 @@ Libraries:
 > Defenders think in guarantees.  
 > I train myself to think like both.**
 
-> **Secure systems aren’t built by fear —  
+> **Secure systems aren’t built by fear   
 they’re built by understanding failure.**

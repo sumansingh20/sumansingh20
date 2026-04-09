@@ -142,7 +142,11 @@ Libraries:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumansingh20&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sumansingh20&layout=compact&hide_border=true" height="150" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true" height="150" />
 </p>
 ---

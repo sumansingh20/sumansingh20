@@ -68,32 +68,35 @@ Privacy-first Email Platform
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Analytics
+
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansingh20&layout=compact&theme=tokyonight"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumansingh20&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sumansingh20&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumansingh20&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumansingh20&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumansingh20&theme=tokyo-night"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumansingh20&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumansingh20&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumansingh20&theme=tokyonight&row=1&column=7&no-frame=true"/>
+  <img src="https://streak-stats.demolab.com?user=sumansingh20&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumansingh20&theme=tokyo-night" />
+</p>
 
 # 🐍 Contribution Snake
 
 > Configure GitHub Actions to generate:
 
-```
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
-```
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 ---
 

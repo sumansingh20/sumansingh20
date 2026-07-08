@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -35,4 +38,4 @@ jobs:
 
           git commit -m "Update snake animation" || echo "No changes to commit"
 
-          git push https://sumansingh20:${{ secrets.PAT_TOKEN }}@github.com/sumansingh20/sumansingh20.git HEAD:output
+          git push origin HEAD:output

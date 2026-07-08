@@ -66,8 +66,6 @@ Privacy-first Email Platform
 
 ---
 
-# 📊 GitHub Stats
-
 ## 📊 GitHub Analytics
 
 <p align="center">

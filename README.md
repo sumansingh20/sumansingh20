@@ -1,10 +1,25 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Suman Kumar — Full-Stack Developer and Security Engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="Suman Kumar — Full-Stack Developer and Security Engineer" width="100%" />
 </div>
 
 I study at the Indian Institute of Technology, Patna and build software end to end: web platforms, distributed systems, and security tooling. My work covers the front end, the back end, and the infrastructure in between, with security treated as a design requirement rather than an afterthought.
 
-## Skills
+## Player Stats
+
+<div align="center">
+  <img src="./assets/player-card.svg" alt="Player stats" width="520" />
+</div>
+
+## Achievements
+
+<div align="center">
+  <img src="./assets/badge-repos.svg" alt="58 repositories" width="175" />
+  <img src="./assets/badge-langs.svg" alt="8 languages" width="175" />
+  <img src="./assets/badge-joined.svg" alt="On GitHub since 2023" width="175" />
+  <img src="./assets/badge-security.svg" alt="Security specialist" width="175" />
+</div>
+
+## Loadout
 
 | Area | Technologies |
 | --- | --- |
@@ -14,7 +29,7 @@ I study at the Indian Institute of Technology, Patna and build software end to e
 | Data | PostgreSQL, MySQL, MongoDB, Redis |
 | Cloud & DevOps | AWS, GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx |
 
-## Projects
+## Quest Log
 
 <table>
   <tr>

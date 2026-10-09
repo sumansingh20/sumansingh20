@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="380" viewBox="0 0 520 380" role="img" aria-label="Player stats for Suman Kumar">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="518" height="378" rx="18" fill="url(#card)" stroke="#4c1d95" stroke-width="2"/>
+  <text x="30" y="46" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#7c3aed" letter-spacing="3">PLAYER STATS</text>
+  <text x="30" y="82" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Full-Stack Developer</text>
+  <text x="30" y="108" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">Indian Institute of Technology, Patna</text>
+  <line x1="30" y1="128" x2="490" y2="128" stroke="#4c1d95" stroke-opacity="0.6"/>
+  <text x="30" y="168" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Frontend</text>
+  <text x="490" y="168" text-anchor="end" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa">92</text>
+  <rect x="30" y="178" width="460" height="10" rx="5" fill="#1e1b4b"/>
+  <rect x="30" y="178" width="0" height="10" rx="5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="423" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="30" y="212" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Backend</text>
+  <text x="490" y="212" text-anchor="end" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa">88</text>
+  <rect x="30" y="222" width="460" height="10" rx="5" fill="#1e1b4b"/>
+  <rect x="30" y="222" width="0" height="10" rx="5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="405" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="30" y="256" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Security</text>
+  <text x="490" y="256" text-anchor="end" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa">90</text>
+  <rect x="30" y="266" width="460" height="10" rx="5" fill="#1e1b4b"/>
+  <rect x="30" y="266" width="0" height="10" rx="5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="414" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="30" y="300" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Systems</text>
+  <text x="490" y="300" text-anchor="end" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa">82</text>
+  <rect x="30" y="310" width="460" height="10" rx="5" fill="#1e1b4b"/>
+  <rect x="30" y="310" width="0" height="10" rx="5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="377" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="30" y="344" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Data</text>
+  <text x="490" y="344" text-anchor="end" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa">85</text>
+  <rect x="30" y="354" width="460" height="10" rx="5" fill="#1e1b4b"/>
+  <rect x="30" y="354" width="0" height="10" rx="5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="391" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </rect>
+</svg>

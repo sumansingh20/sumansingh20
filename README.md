@@ -1,66 +1,140 @@
-# Suman Kumar
+<div align="center">
 
-Full-stack developer and security engineer based in Patna, India. I study at the **Indian Institute of Technology, Patna** and build software across web applications, distributed systems, and security tooling.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:7C3AED&height=200&section=header&text=Suman%20Kumar&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Security%20Engineer&descAlignY=60&descSize=16&descColor=C7D2FE" width="100%" alt="Suman Kumar" />
 
-I like working end to end — from system design and data models to the interface people actually use. Currently focused on writing production-quality code, strengthening my fundamentals, and shipping projects that hold up under real use.
+<a href="https://github.com/sumansingh20">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Security+Engineer;Building+secure+and+scalable+software" alt="Typing SVG" />
+</a>
 
----
+Full-stack developer and security engineer based in Patna, India. I study at the **Indian Institute of Technology, Patna** and build software across web applications, distributed systems, and security tooling — end to end, from system design to the interface people use.
 
-## What I work on
-
-- **Full-stack development** — building web applications with React / Next.js on the front end and Node.js / FastAPI on the back end.
-- **Security engineering** — penetration testing, threat analysis, and building secure-by-design systems.
-- **Distributed systems** — fault-tolerant schedulers, distributed data processing, and cloud-native compute.
-- **Applied AI** — retrieval-augmented generation and agentic workflows for research and automation.
+</div>
 
 ---
 
-## Tech
+## Tech stack
 
-- **Languages** — Python, TypeScript, JavaScript, Java, Scala, C, C++
-- **Frontend** — React, Next.js, Tailwind CSS, Redux
-- **Backend** — Node.js, Express, FastAPI, Flask, Spring
-- **Data** — PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud & DevOps** — AWS, GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,scala,c,cpp&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask,spring&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,linux,git,github&theme=dark" alt="Data, Cloud and Tools" />
 
-## Selected projects
-
-**Threavix** — Agentic AI for cyber threat intelligence and incident response, covering log analysis, MITRE ATT&CK mapping, and evidence-based remediation. `Python · LangGraph · FastAPI`
-[Repository](https://github.com/sumansingh20/Threavix-AI)
-
-**NexaMind** — Agentic RAG platform for document research with semantic search and source-grounded citations. `Python · LangGraph · Vector DB`
-[Repository](https://github.com/sumansingh20/NexaMind-AI)
-
-**Synthera** — Multi-agent research platform that automates retrieval, source verification, and report generation. `Python · FastAPI`
-[Repository](https://github.com/sumansingh20/Synthera-AI)
-
-**Orchestrix** — Fault-tolerant distributed scheduler built for coordination and high availability under failure. `Scala`
-[Repository](https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler)
-
-**Nebula** — Cloud-native platform for running distributed compute workloads. `Java`
-[Repository](https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform)
-
-**Nimbus** — Scalable, fault-tolerant distributed data processing engine. `Java`
-[Repository](https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine)
-
-**Aegis** — Offensive security framework for penetration testing and security assessment. `TypeScript`
-[Repository](https://github.com/sumansingh20/Aegis-Offensive-Security-Framework)
-
-**Kavach Infinity** — Real-time monitoring and anomaly detection for critical infrastructure. `Python`
-[Repository](https://github.com/sumansingh20/kavach-infinity)
+</div>
 
 ---
 
-## Coding profiles
+## Featured projects
 
-[LeetCode](https://leetcode.com/sumansingh20) · [Codeforces](https://codeforces.com/profile/sumankumar20) · [CodeChef](https://www.codechef.com/users/sumankumar01) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sumansingh20) · [Hack The Box](https://profile.hackthebox.com/profile/019ecc5a-9777-708a-aa0f-e71c2dc5d599)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Threavix](https://github.com/sumansingh20/Threavix-AI)**<br/>
+Agentic AI for cyber threat intelligence and incident response — log analysis, MITRE ATT&CK mapping, and evidence-based remediation.
+<br/>`Python` `LangGraph` `RAG` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**[NexaMind](https://github.com/sumansingh20/NexaMind-AI)**<br/>
+Agentic RAG platform for document research with semantic search and source-grounded citations.
+<br/>`Python` `LangGraph` `RAG` `Vector DB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Synthera](https://github.com/sumansingh20/Synthera-AI)**<br/>
+Multi-agent research platform that automates retrieval, source verification, and report generation.
+<br/>`Python` `Multi-Agent` `RAG` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**[Orchestrix](https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler)**<br/>
+Fault-tolerant distributed scheduler built for coordination and availability under failure.
+<br/>`Scala` `Distributed Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Nebula](https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform)**<br/>
+Cloud-native platform for running distributed compute workloads.
+<br/>`Java` `Cloud-Native`
+
+</td>
+<td width="50%" valign="top">
+
+**[Nimbus](https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine)**<br/>
+Scalable, fault-tolerant distributed data processing engine.
+<br/>`Java` `Data Engineering`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Aegis](https://github.com/sumansingh20/Aegis-Offensive-Security-Framework)**<br/>
+Offensive security framework for penetration testing and security assessment.
+<br/>`TypeScript` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+**[Kavach Infinity](https://github.com/sumansingh20/kavach-infinity)**<br/>
+Real-time monitoring and anomaly detection for critical infrastructure.
+<br/>`Python` `Monitoring`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[Explore all repositories →](https://github.com/sumansingh20?tab=repositories)
+
+</div>
 
 ---
 
-## Contact
+## GitHub
 
-- Email — [sumantech07@gmail.com](mailto:sumantech07@gmail.com)
-- LinkedIn — [linkedin.com/in/sumankumar-](https://www.linkedin.com/in/sumankumar-/)
-- GitHub — [github.com/sumansingh20](https://github.com/sumansingh20)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansingh20&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakNum=C7D2FE&currStreakLabel=C7D2FE&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:sumantech07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sumankumar-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/sumansingh20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/sumansingh20"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/sumankumar20"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.codechef.com/users/sumankumar01"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.geeksforgeeks.org/profile/sumansingh20"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://profile.hackthebox.com/profile/019ecc5a-9777-708a-aa0f-e71c2dc5d599"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0F172A&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>

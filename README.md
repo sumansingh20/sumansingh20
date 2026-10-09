@@ -1,68 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:003322,100:00FF9C&height=230&section=header&text=SUMAN%20KUMAR&fontSize=58&fontColor=00FF9C&fontAlignY=40&desc=SECURITY%20ENGINEER%20%2F%2F%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16&descColor=e6fff4" width="100%" alt="Suman Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:A78BFA&height=210&section=header&text=Suman%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Security%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=E9D5FF" width="100%" alt="Suman Kumar" />
 
 <a href="https://github.com/sumansingh20">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=820&height=50&lines=%3E+whoami+--+suman+kumar;%3E+role+%3D+Security+Engineer;%3E+build+secure+%26+scalable+systems;%3E+cloud+security+%2F%2F+devsecops+%2F%2F+distributed+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=52&lines=Security+Engineer;Full+Stack+Developer;IIT+Patna+Undergraduate;Building+secure+and+scalable+applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumansingh20&label=INTRUSIONS&color=00ff9c&labelColor=0d1117&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/sumansingh20?label=ALLIES&color=00ff9c&labelColor=0d1117&style=for-the-badge" alt="Followers" />
-<img src="https://img.shields.io/github/stars/sumansingh20?label=STARS&color=00ff9c&labelColor=0d1117&style=for-the-badge" alt="Stars" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?labelColor=0d1117&style=for-the-badge" alt="Status" />
+<img src="https://komarev.com/ghpvc/?username=sumansingh20&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/sumansingh20?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers" />
+<img src="https://img.shields.io/github/stars/sumansingh20?label=Stars&style=for-the-badge&color=7C3AED" alt="Stars" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
 
 </div>
 
 ---
 
-```console
-┌──[suman@iitp]─[~/home]
-└─$ whoami
+## About
 
-  Name    : Suman Kumar
-  Role    : Security Engineer · Full Stack Developer
-  Base    : Patna, India
-  Org     : Indian Institute of Technology, Patna
-  Mission : Build secure, scalable and fault-tolerant systems
-  Status  : hireable
-```
+I'm **Suman Kumar**, a developer at the **Indian Institute of Technology, Patna**, focused on **security engineering** and **full-stack development**. I care about building software that is secure by design, scalable under load, and dependable in production — and I enjoy the full journey from architecture to shipped product.
 
-I engineer systems at the intersection of **security**, **distributed computing**, and **applied AI** — from offensive-security tooling and cloud-native infrastructure to distributed data engines and agentic platforms. Security and reliability are never afterthoughts; they are the design.
-
----
-
-## Focus Areas
-
-<table align="center">
+<table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
-**Offensive Security**
+**What I focus on**
 
-Threat intelligence, incident response, penetration testing, zero-trust architecture.
-
-</td>
-<td valign="top" width="25%">
-
-**Distributed Systems**
-
-Fault-tolerant schedulers, scalable data engines, cloud-native compute.
+- Secure application & cloud architecture
+- Offensive security & threat analysis
+- Distributed and fault-tolerant systems
+- Applied AI for research and automation
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
-**Full Stack**
+**Highlights**
 
-Production web applications with clean, typed, well-tested architecture.
-
-</td>
-<td valign="top" width="25%">
-
-**Applied AI**
-
-Agentic workflows, retrieval-augmented generation, evaluation pipelines.
+- Building full-stack products end to end
+- Strong foundation in data structures & algorithms
+- Consistent open-source contributor
+- Continuous learner across security and cloud
 
 </td>
 </tr>
@@ -70,31 +48,31 @@ Agentic workflows, retrieval-augmented generation, evaluation pipelines.
 
 ---
 
-## Arsenal
+## Skills & Technologies
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,java,scala,c,cpp,js,ts,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,scala,c,cpp&theme=light" alt="Languages" />
 
-**Frameworks & Frontend**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,spring,react,nextjs,tailwind&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&theme=light" alt="Frontend" />
 
-**Data & Infrastructure**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq,docker,kubernetes,terraform,ansible,nginx&theme=dark" alt="Data & Infra" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,postgres,mysql,mongodb,redis&theme=light" alt="Backend and Databases" />
 
-**Cloud, DevSecOps & Tooling**
+**Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,git,github,githubactions,jenkins,grafana,prometheus,postman,vscode&theme=dark" alt="Cloud & Tools" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,githubactions,linux,nginx,postman,vscode&theme=light" alt="Cloud and Tools" />
 
 </div>
 
 ---
 
-## Operations
+## Featured Projects
 
 <table>
 <tr>
@@ -103,11 +81,11 @@ Agentic workflows, retrieval-augmented generation, evaluation pipelines.
 ### Threavix
 **Agentic AI for Cyber Threat Intelligence & Incident Response**
 
-Security log analysis, threat intelligence, MITRE ATT&CK mapping, incident investigation, evidence-based remediation.
+Security log analysis, threat intelligence, MITRE ATT&CK mapping, incident investigation, and evidence-based remediation.
 
 `Python` `LLMs` `RAG` `LangGraph` `FastAPI`
 
-[deploy →](https://github.com/sumansingh20/Threavix-AI)
+[View Project →](https://github.com/sumansingh20/Threavix-AI)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +97,7 @@ Intelligent document research and knowledge automation with semantic search and 
 
 `Python` `LLMs` `RAG` `LangGraph` `Vector DB`
 
-[deploy →](https://github.com/sumansingh20/NexaMind-AI)
+[View Project →](https://github.com/sumansingh20/NexaMind-AI)
 
 </td>
 </tr>
@@ -129,11 +107,11 @@ Intelligent document research and knowledge automation with semantic search and 
 ### Synthera
 **Multi-Agent AI Research Platform**
 
-Automates web research, information retrieval, source verification, and report generation through agent workflows.
+Automates web research, information retrieval, source verification, and report generation through intelligent agent workflows.
 
 `Python` `Multi-Agent` `RAG` `LangGraph` `FastAPI`
 
-[deploy →](https://github.com/sumansingh20/Synthera-AI)
+[View Project →](https://github.com/sumansingh20/Synthera-AI)
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +123,7 @@ A distributed scheduling engine built for resilience, coordination, and high ava
 
 `Scala` `Distributed Systems` `Scheduling`
 
-[deploy →](https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler)
+[View Project →](https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler)
 
 </td>
 </tr>
@@ -159,7 +137,7 @@ A cloud-native platform for distributed compute workloads across dynamic infrast
 
 `Java` `Cloud-Native` `Compute`
 
-[deploy →](https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform)
+[View Project →](https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform)
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +149,7 @@ A distributed data processing engine engineered for scale and fault tolerance.
 
 `Java` `Data Engineering` `Distributed`
 
-[deploy →](https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine)
+[View Project →](https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine)
 
 </td>
 </tr>
@@ -185,7 +163,7 @@ An offensive security framework for modern penetration testing and security asse
 
 `TypeScript` `Offensive Security` `Pentesting`
 
-[deploy →](https://github.com/sumansingh20/Aegis-Offensive-Security-Framework)
+[View Project →](https://github.com/sumansingh20/Aegis-Offensive-Security-Framework)
 
 </td>
 <td width="50%" valign="top">
@@ -197,7 +175,7 @@ Real-time monitoring, anomaly detection, and safety automation for railways, pow
 
 `Python` `Anomaly Detection` `Monitoring`
 
-[deploy →](https://github.com/sumansingh20/kavach-infinity)
+[View Project →](https://github.com/sumansingh20/kavach-infinity)
 
 </td>
 </tr>
@@ -205,42 +183,42 @@ Real-time monitoring, anomaly detection, and safety automation for railways, pow
 
 <div align="center">
 
-[`ls ./all-repositories`](https://github.com/sumansingh20?tab=repositories)
+[Explore all repositories →](https://github.com/sumansingh20?tab=repositories)
 
 </div>
 
 ---
 
-## Telemetry
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansingh20&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumansingh20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansingh20&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=00FF9C&currStreakLabel=00FF9C&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=A78BFA&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumansingh20&theme=2077" alt="Profile Details" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumansingh20&theme=tokyonight" alt="Profile Details" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumansingh20&theme=2077" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumansingh20&theme=2077" alt="Most Commit Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumansingh20&theme=tokyonight" alt="Repos per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumansingh20&theme=tokyonight" alt="Most Commit Language" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumansingh20&theme=2077&utcOffset=5.5" alt="Productive Time" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumansingh20&theme=2077" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumansingh20&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumansingh20&theme=tokyonight" alt="Stats" />
 
 </div>
 
 ---
 
-## Activity Map
+## Contribution Activity
 
 <div align="center">
 
-<img width="98%" src="https://ghchart.rshah.org/00FF9C/sumansingh20" alt="Contribution Chart" />
+<img width="98%" src="https://ghchart.rshah.org/7C3AED/sumansingh20" alt="Contribution Chart" />
 
 <br/><br/>
 
@@ -262,7 +240,7 @@ Real-time monitoring, anomaly detection, and safety automation for railways, pow
 
 ---
 
-## Channels
+## Let's Connect
 
 <div align="center">
 
@@ -273,7 +251,7 @@ Real-time monitoring, anomaly detection, and safety automation for railways, pow
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/sumansingh20">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://leetcode.com/sumansingh20">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -300,8 +278,8 @@ Real-time monitoring, anomaly detection, and safety automation for railways, pow
 
 <div align="center">
 
-`echo "building secure software // cloud security // backend engineering // devsecops"`
+**Building secure, scalable software — one commit at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,55:003322,100:0D1117&height=140&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:6D28D9,100:312E81&height=140&section=footer" width="100%" alt="Footer" />
 
 </div>

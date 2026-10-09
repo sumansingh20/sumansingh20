@@ -19,6 +19,14 @@ I study at the Indian Institute of Technology, Patna and build software end to e
   <img src="./assets/badge-security.svg" alt="Security specialist" width="175" />
 </div>
 
+## Arcade
+
+<div align="center">
+  <img src="./assets/game-space.svg" alt="Space Invaders" width="100%" />
+  <img src="./assets/game-pong.svg" alt="Pong" width="100%" />
+  <img src="./assets/game-tetris.svg" alt="Tetris" width="100%" />
+</div>
+
 ## Loadout
 
 | Area | Technologies |

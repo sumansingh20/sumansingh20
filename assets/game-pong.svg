@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Pong">
+  <rect width="1000" height="220" fill="#070b17"/>
+  <line x1="500" y1="12" x2="500" y2="208" stroke="#ffffff" stroke-opacity="0.12" stroke-dasharray="12 12"/>
+  <text x="26" y="34" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#a78bfa" letter-spacing="3">PONG</text>
+  <rect x="26" y="80" width="10" height="60" rx="5" fill="#a78bfa">
+    <animate attributeName="y" values="60;120;60" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="964" y="80" width="10" height="60" rx="5" fill="#67e8f9">
+    <animate attributeName="y" values="120;60;120" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <circle r="8" fill="#f0abfc">
+    <animate attributeName="cx" values="46;954;46" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="44;176;44" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

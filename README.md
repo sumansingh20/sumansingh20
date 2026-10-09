@@ -1,12 +1,10 @@
-# Suman Kumar
+<div align="center">
+  <img src="./assets/banner.svg" alt="Suman Kumar — Full-Stack Developer and Security Engineer" width="100%" />
+</div>
 
-**Full-stack developer · Security engineer**
+I study at the Indian Institute of Technology, Patna and build software end to end: web platforms, distributed systems, and security tooling. My work covers the front end, the back end, and the infrastructure in between, with security treated as a design requirement rather than an afterthought.
 
-Patna, India · [Email](mailto:sumantech07@gmail.com) · [GitHub](https://github.com/sumansingh20) · [LinkedIn](https://www.linkedin.com/in/sumankumar-/)
-
-I study at the Indian Institute of Technology, Patna and build software end to end: web platforms, distributed systems, and security tooling. My work spans the front end, the back end, and the infrastructure in between, with security treated as a design requirement rather than an afterthought.
-
-## Toolbox
+## Skills
 
 | Area | Technologies |
 | --- | --- |
@@ -16,7 +14,7 @@ I study at the Indian Institute of Technology, Patna and build software end to e
 | Data | PostgreSQL, MySQL, MongoDB, Redis |
 | Cloud & DevOps | AWS, GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx |
 
-## Selected projects
+## Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |

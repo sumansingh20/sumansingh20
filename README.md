@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:7C3AED&height=200&section=header&text=Suman%20Kumar&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Security%20Engineer&descAlignY=60&descSize=16&descColor=C7D2FE" width="100%" alt="Suman Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:7C3AED&height=210&section=header&text=Suman%20Kumar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Security%20Engineer&descAlignY=58&descSize=16&descColor=C7D2FE" width="100%" alt="Suman Kumar" />
 
 <a href="https://github.com/sumansingh20">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Security+Engineer;Building+secure+and+scalable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=720&height=45&lines=Full+Stack+Developer;Security+Engineer;Building+secure+and+scalable+software;Open+to+opportunities" alt="Typing SVG" />
 </a>
 
 Full-stack developer and security engineer based in Patna, India. I study at the **Indian Institute of Technology, Patna** and build software across web applications, distributed systems, and security tooling — end to end, from system design to the interface people use.
@@ -12,7 +12,7 @@ Full-stack developer and security engineer based in Patna, India. I study at the
 
 ---
 
-## Tech stack
+## Tech Stack
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Full-stack developer and security engineer based in Patna, India. I study at the
 
 ---
 
-## Featured projects
+## Featured Projects
 
 <table>
 <tr>
@@ -111,6 +111,31 @@ Real-time monitoring and anomaly detection for critical infrastructure.
 <br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumansingh20&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakNum=C7D2FE&currStreakLabel=C7D2FE&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://ghchart.rshah.org/7C3AED/sumansingh20" alt="Contribution Chart" />
+
+</div>
+
+---
+
+## Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/sumansingh20">
+  <img height="180" src="https://leetcard.jacoblin.cool/sumansingh20?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</a>
+<a href="https://codeforces.com/profile/sumankumar20">
+  <img height="180" src="https://codeforces-readme-stats.vercel.app/api/card?username=sumankumar20" alt="Codeforces Stats" />
+</a>
 
 </div>
 

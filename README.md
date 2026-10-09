@@ -16,16 +16,24 @@ I study at the Indian Institute of Technology, Patna and build software end to e
 
 ## Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Threavix](https://github.com/sumansingh20/Threavix-AI) | Agentic system for cyber threat intelligence and incident response: log analysis, MITRE ATT&CK mapping, and evidence-based remediation | Python · LangGraph · FastAPI |
-| [NexaMind](https://github.com/sumansingh20/NexaMind-AI) | Document research platform with semantic search and source-grounded citations | Python · LangGraph · Vector DB |
-| [Synthera](https://github.com/sumansingh20/Synthera-AI) | Multi-agent platform for retrieval, source verification, and report generation | Python · FastAPI |
-| [Orchestrix](https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler) | Fault-tolerant distributed scheduler built for coordination and availability under failure | Scala |
-| [Nebula](https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform) | Cloud-native platform for running distributed compute workloads | Java |
-| [Nimbus](https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine) | Scalable, fault-tolerant distributed data processing engine | Java |
-| [Aegis](https://github.com/sumansingh20/Aegis-Offensive-Security-Framework) | Offensive security framework for penetration testing and security assessment | TypeScript |
-| [Kavach Infinity](https://github.com/sumansingh20/kavach-infinity) | Real-time monitoring and anomaly detection for critical infrastructure | Python |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/sumansingh20/Threavix-AI"><img src="./assets/proj-threavix.svg" width="100%" alt="Threavix" /></a></td>
+    <td width="50%"><a href="https://github.com/sumansingh20/NexaMind-AI"><img src="./assets/proj-nexamind.svg" width="100%" alt="NexaMind" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sumansingh20/Synthera-AI"><img src="./assets/proj-synthera.svg" width="100%" alt="Synthera" /></a></td>
+    <td width="50%"><a href="https://github.com/sumansingh20/Orchestrix-Fault-Tolerant-Distributed-Scheduler"><img src="./assets/proj-orchestrix.svg" width="100%" alt="Orchestrix" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sumansingh20/Nebula-Cloud-Native-Distributed-Compute-Platform"><img src="./assets/proj-nebula.svg" width="100%" alt="Nebula" /></a></td>
+    <td width="50%"><a href="https://github.com/sumansingh20/Nimbus-Scalable-Fault-Tolerant-Distributed-Data-Processing-Engine"><img src="./assets/proj-nimbus.svg" width="100%" alt="Nimbus" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sumansingh20/Aegis-Offensive-Security-Framework"><img src="./assets/proj-aegis.svg" width="100%" alt="Aegis" /></a></td>
+    <td width="50%"><a href="https://github.com/sumansingh20/kavach-infinity"><img src="./assets/proj-kavach.svg" width="100%" alt="Kavach Infinity" /></a></td>
+  </tr>
+</table>
 
 ## Coding profiles
 
@@ -40,3 +48,7 @@ I study at the Indian Institute of Technology, Patna and build software end to e
 - Email: [sumantech07@gmail.com](mailto:sumantech07@gmail.com)
 - LinkedIn: [in/sumankumar-](https://www.linkedin.com/in/sumankumar-/)
 - GitHub: [sumansingh20](https://github.com/sumansingh20)
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Suman Kumar" width="100%" />
+</div>
